@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with writing my github profile
 - 💬 Ask me about my github profile
 - 📫 How to reach me: my github profile
-- 😄 Pronouns: Cyborg/Cyborgself
+- 🤖 Pronouns: Cyborg/Cyborgself
 - ⚡ Fun fact: my github profile is actually just to track how many people stalk me :)
