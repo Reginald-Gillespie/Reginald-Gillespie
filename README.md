@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my github profile
 - 🤖 Pronouns: Cyborg/Cyborgself
 - ⚡ Fun fact: my github profile is actually just to track how many people stalk me :)
+
+![](https://komarev.com/ghpvc/?username=Reginald-Gillespie&color=green&label=Profile+Visits)
