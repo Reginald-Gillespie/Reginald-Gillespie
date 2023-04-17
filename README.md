@@ -1,6 +1,5 @@
-**Reginald-Gillespie/Reginald-Gillespie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java, C#, C++, Python, Javascript, Node, some HTML | Hacking, Cybersecurity, Linux
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on writing my github profile
 - 🌱 I’m currently learning how to write my github profile
