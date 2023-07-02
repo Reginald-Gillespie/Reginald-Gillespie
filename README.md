@@ -6,7 +6,7 @@ Java, C#, C++, Python, Javascript, Node, some HTML | Hacking, Cybersecurity, Lin
 - 👯 I’m looking to collaborate on writing my github profile
 - 🤔 I’m looking for help with writing my github profile
 - 💬 Ask me about my github profile
-- 📫 How to reach me: just open an issue under any of my projects. Discord: `WKoA#4459`
+- 📫 How to reach me: just open an issue under any of my projects. Discord: `wk0a`
 - 🤖 Pronouns: Cyborg/Cyborgself
 - ⚡ Fun fact: my github profile is actually just to track how many people stalk me :)
 
