@@ -2,11 +2,6 @@ Java, C#, C & C++, Python, Javascript + Node, HTML (not that I'm good at it), Ba
 
 Hacking, Cybersecurity, Linux
 
-
-<script src="https://tryhackme.com/badge/1087317"></script>
-
-
-
 - 🔭 I’m currently working on writing my github profile
 - 🌱 I’m currently learning how to write my github profile
 - 👯 I’m looking to collaborate on writing my github profile
