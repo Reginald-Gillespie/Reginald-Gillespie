@@ -4,4 +4,6 @@ Hacking, Cybersecurity, Linux
 
 ![WKoA](https://www.hackthebox.eu/badge/image/972812)
 
+`wk0a` on Discord.
+
 ![](https://komarev.com/ghpvc/?username=Reginald-Gillespie&color=green&label=Profile+Visits)
