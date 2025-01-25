@@ -7,3 +7,6 @@ CompTia Security+ certified.
 ![WKoA](https://www.hackthebox.eu/badge/image/972812)
 
 Discord: `wk0a`
+
+
+Currently looking for internships 🤔
