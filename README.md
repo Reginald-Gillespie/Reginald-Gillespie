@@ -5,7 +5,7 @@ Hacking, Cybersecurity, Linux, Windows, Arduinos.
 CompTia Security+ certified. 
 
 Discord moderation contractor for CrunchLabs.
-Software development student intern for CrunchLabs.
+<br>Software development student intern for CrunchLabs.
 
 ![WKoA](https://www.hackthebox.eu/badge/image/972812)
 
