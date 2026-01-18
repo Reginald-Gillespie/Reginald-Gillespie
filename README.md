@@ -42,7 +42,7 @@ Hacking, Cybersecurity, Linux, Windows, Arduinos.
 CompTia Security+ certified. 
 -->
 
-![WKoA](https://www.hackthebox.eu/badge/image/972812)
+![WKoA](https://www.hackthebox.com/badge/image/972812)
 
 
 Discord moderation contractor for CrunchLabs.
