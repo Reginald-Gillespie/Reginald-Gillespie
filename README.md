@@ -49,3 +49,4 @@ Discord moderation contractor for CrunchLabs.
 <br>Software development student intern for CrunchLabs.
 
 Discord: `wk0a`
+Email: reginaldgillespie@protonmail.com
